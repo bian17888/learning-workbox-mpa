@@ -13,5 +13,9 @@
 
 ## 备注 
 
-    // workbox-cli 设置
-    workbox wizard --injectManifest
+- 架构说明
+    - workbox-cli
+        - workbox wizard --injectManifest
+    - 404.html, offline.html
+    - Precaching
+    
